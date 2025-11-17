@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy
+google-cloud-aiplatform
+faiss-cpu       # or faiss-gpu if you have GPU
+tqdm
+scikit-learn
+requests
